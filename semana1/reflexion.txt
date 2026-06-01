@@ -1,0 +1,13 @@
+Reflexión — Semana 1
+
+El uso responsable de la información en internet es la base de una ciudadanía digital activa
+y consciente. Cuando verificamos las fuentes antes de compartir contenido, contribuimos a
+construir un entorno digital más confiable, lo que fortalece la participación ciudadana porque
+las decisiones colectivas se toman con base en datos verdaderos y no en desinformación.
+
+Esta misma lógica de orden, verificación y trazabilidad se refleja en herramientas como Git.
+Así como un ciudadano responsable registra de dónde proviene la información que comparte,
+Git permite registrar cada cambio realizado en un proyecto, quién lo hizo y por qué, creando
+un historial claro y transparente. De esta forma, tanto en la vida cívica como en el trabajo
+técnico, la responsabilidad, la organización y la verificación son valores fundamentales que
+garantizan la confianza, la colaboración y la calidad de los resultados obtenidos.
