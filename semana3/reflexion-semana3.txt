@@ -1,0 +1,16 @@
+Mantener un registro de cambios en los proyectos de software es fundamental
+porque permite saber exactamente qué se modificó, cuándo y por qué razón.
+Sin esta trazabilidad, sería muy difícil identificar en qué momento se
+introdujo un error o qué cambio afectó el funcionamiento de una parte del
+proyecto.
+
+Git permite que varios desarrolladores trabajen sobre el mismo proyecto sin
+pisarse el trabajo, ya que cada uno puede registrar sus cambios de forma
+independiente y luego integrarlos. Esto hace que el trabajo en equipo sea
+más ordenado y confiable.
+
+Además, el historial de commits funciona como una bitácora del proyecto:
+se puede ver la evolución del trabajo desde el inicio hasta el estado actual,
+lo cual es útil tanto para el equipo de desarrollo como para cualquier persona
+que se integre después. En definitiva, usar Git no es solo una buena práctica
+técnica, sino una forma de trabajar con responsabilidad y orden.
